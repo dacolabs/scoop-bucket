@@ -1,0 +1,15 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dacolabs/cli/releases/download/v0.1.2/daco_0.1.2_windows_amd64.zip",
+            "bin": [
+                "daco.exe"
+            ],
+            "hash": "f4442687e79d4dc3997c35a905acf40b8b6a02cfe4cea7240a6968629d38fca0"
+        }
+    },
+    "homepage": "https://github.com/dacolabs/cli",
+    "license": "Apache-2.0",
+    "description": "Swiss army knife for data product projects"
+}
