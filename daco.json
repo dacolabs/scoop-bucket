@@ -1,12 +1,12 @@
 {
-    "version": "0.1.3",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dacolabs/cli/releases/download/v0.1.3/daco_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/dacolabs/cli/releases/download/v0.2.0/daco_0.2.0_windows_amd64.zip",
             "bin": [
                 "daco.exe"
             ],
-            "hash": "880fdb5fdd08356d2ed0be39f94215cd990ddf31126493c3a58c60833b4b1da7"
+            "hash": "c8874148b0651184259cb193a48d10ffb1b1391064af2726ef89938ff28bc748"
         }
     },
     "homepage": "https://github.com/dacolabs/cli",
