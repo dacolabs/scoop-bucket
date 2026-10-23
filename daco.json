@@ -1,15 +1,15 @@
 {
-    "version": "0.3.3",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dacolabs/cli/releases/download/v0.3.3/daco_0.3.3_windows_amd64.zip",
+            "url": "https://github.com/dacolabs/cli/releases/download/v1.0.0/daco_1.0.0_windows_amd64.zip",
             "bin": [
                 "daco.exe"
             ],
-            "hash": "e30270942780d230baf19d5ae79b31e2d97fa5181205cc8f0aab5744bab7a5c9"
+            "hash": "5f5fe91732cd6c08a4307c02832a1e95b4d7291e86638db152f9759178be6fd8"
         }
     },
     "homepage": "https://github.com/dacolabs/cli",
     "license": "Apache-2.0",
-    "description": "Swiss army knife for data product projects"
+    "description": "Official CLI for the Daco Catalog API"
 }
